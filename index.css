@@ -1,0 +1,42 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #2c4152;
+
+}
+.a1{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-align: center;
+}
+nav{
+    background-color: #2c4152;
+    height: 30px;
+    /* align-items: center; */
+    margin-top: 10px;
+    
+}
+nav a{
+    color: white;
+    display: inline;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+footer {
+    
+    padding: 10px;
+    background-color: lightgrey;
+    border: 2px solid;
+}
+.fot1{
+    position: absolute;
+}
+a{
+    margin: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: #2c4152;
+}
